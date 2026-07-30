@@ -1,0 +1,53 @@
+Đề tài: Xây dựng Website bán giày thể thao online
+Ngày: 30-7-2026
+Người thực hiện: Nguyễn Thạch Bảo Long - 23080058
+
+1. THÔNG TIN DỰ ÁN
+- Tên dự án: Website bán giày thể thao online
+- Mục tiêu: Xây dựng một website thương mại điện tử cho phép người dùng xem, tìm kiếm và mua giày thể thao trực tuyến.
+- Thời gian dự kiến: 8 tuần
+- Ngân sách ước tính: 50.000.000 VNĐ
+- Project Manager: Nguyễn Thạch Bảo Long
+
+2. PHẠM VI DỰ ÁN (SCOPE)
+Trong phạm vi:
+- Thiết kế giao diện người dùng (UI/UX)
+- Xây dựng chức năng đăng ký/đăng nhập
+- Quản lý sản phẩm (thêm, sửa, xóa)
+- Giỏ hàng và thanh toán
+- Quản lý đơn hàng
+
+Ngoài phạm vi:
+- Ứng dụng mobile
+- Hệ thống kho vận phức tạp
+
+3. LỊCH TRÌNH DỰ ÁN (TIMELINE)
+
+| Giai đoạn              | Thời gian     | Công việc chính                     |
+|------------------------|---------------|-------------------------------------|
+| 1. Khởi tạo            | Tuần 1        | Xác định yêu cầu, lập kế hoạch      |
+| 2. Phân tích & Thiết kế| Tuần 2-3      | Thiết kế database, UI/UX            |
+| 3. Phát triển          | Tuần 4-6      | Lập trình Frontend & Backend        |
+| 4. Kiểm thử            | Tuần 7        | Test chức năng, sửa lỗi             |
+| 5. Triển khai          | Tuần 8        | Deploy và bàn giao                  |
+
+4. PHÂN CÔNG CÔNG VIỆC
+- Project Manager: Quản lý tiến độ, họp team
+- Designer: Thiết kế giao diện
+- Frontend Developer: Xây dựng giao diện website
+- Backend Developer: Xây dựng API và database
+- Tester: Kiểm thử chức năng
+
+5. CÔNG CỤ SỬ DỤNG
+- Quản lý công việc: Trello / Jira
+- Thiết kế: Figma
+- Lập trình: VS Code
+- Quản lý mã nguồn: GitHub
+
+6. RỦI RO DỰ ÁN
+- Trễ tiến độ do thiếu nhân sự → Giải pháp: Phân công rõ ràng, họp hàng tuần
+- Lỗi kỹ thuật phát sinh → Giải pháp: Dành thời gian buffer cho testing
+- Thay đổi yêu cầu từ khách hàng → Giải pháp: Khóa scope sau giai đoạn phân tích
+
+7. KẾT LUẬN
+Bản quản lý dự án này giúp định hướng rõ ràng các công việc, thời gian và trách nhiệm của từng thành viên, góp phần nâng cao khả năng hoàn thành dự án đúng hạn.
