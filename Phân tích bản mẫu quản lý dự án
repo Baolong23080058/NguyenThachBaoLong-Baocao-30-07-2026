@@ -1,0 +1,29 @@
+PHÂN TÍCH ƯU NHƯỢC ĐIỂM BẢN MẪU QUẢN LÝ DỰ ÁN
+Link: https://medai-project-board.vercel.app
+Ngày: 30-7-2026
+Họ tên: Nguyễn Thạch Bảo Long - 23080058
+
+1. GIỚI THIỆU
+Bản mẫu quản lý dự án tại địa chỉ https://medai-project-board.vercel.app là một công cụ hỗ trợ theo dõi công việc theo mô hình Kanban board, giúp quản lý tiến độ dự án một cách trực quan.
+
+2. ƯU ĐIỂM
+- Giao diện đơn giản, dễ sử dụng, phù hợp với người mới bắt đầu.
+- Có các cột phân loại công việc rõ ràng (To Do, In Progress, Done…).
+- Hỗ trợ kéo thả task, thao tác nhanh chóng.
+- Giao diện hiện đại, trực quan, dễ theo dõi tiến độ.
+- Có thể truy cập online, không cần cài đặt phần mềm.
+- Phù hợp với các dự án nhỏ và vừa, hoặc dùng để học tập.
+
+3. NHƯỢC ĐIỂM
+- Tính năng còn hạn chế so với các công cụ chuyên nghiệp như Trello, Jira, Asana.
+- Chưa hỗ trợ phân quyền người dùng chi tiết.
+- Thiếu tính năng báo cáo, thống kê tiến độ (biểu đồ, % hoàn thành…).
+- Chưa có chức năng gắn deadline, nhắc nhở tự động.
+- Khả năng mở rộng và tùy chỉnh còn thấp.
+- Chưa hỗ trợ tốt cho dự án lớn hoặc làm việc nhóm nhiều thành viên.
+
+4. ĐÁNH GIÁ TỔNG QUAN
+Bản mẫu này phù hợp để sinh viên làm quen với cách quản lý dự án theo mô hình Kanban. Tuy nhiên, nếu áp dụng vào dự án thực tế có quy mô lớn hơn thì nên sử dụng các công cụ chuyên nghiệp như Trello hoặc Jira để đáp ứng đầy đủ nhu cầu quản lý.
+
+5. KẾT LUẬN
+Việc sử dụng bản mẫu giúp hiểu rõ hơn về cách tổ chức công việc trong dự án. Đây là công cụ tốt để học tập và thực hành quản lý dự án ở mức cơ bản.
